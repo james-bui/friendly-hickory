@@ -1,6 +1,6 @@
 ---
 title: About
-headline: Behold our FAQ
+headline: A little about us and our policies
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
