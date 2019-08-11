@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: teas
+title: Teas
 section: Store
 layout: category
 menu:
