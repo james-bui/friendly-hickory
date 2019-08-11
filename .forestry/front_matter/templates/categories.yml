@@ -26,4 +26,5 @@ fields:
   config:
     required: true
 pages:
+- categories/teas.md
 - categories/herbs.md
