@@ -98,7 +98,6 @@ fields:
   config:
     required: true
 pages:
-- products/plant4.md
 - products/plant3.md
 - products/plant9.md
 - products/plant8.md
