@@ -11,7 +11,7 @@ logos:
     fallback: "/images/logo-white.png"
   dark:
     optimized: "/images/logo.svg"
-    fallback: ''
+    fallback: "/images/logo.png"
 styles:
   backgroundImages:
     primary:
