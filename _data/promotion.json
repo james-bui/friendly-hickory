@@ -2,7 +2,7 @@
   "title": "Explore our large selection of oriental herbs and goods",
   "subtitle": "Free shipping on orders over $75",
   "image": {
-    "optimized": "images/promo.webp",
+    "optimized": "/images/chinese-medicine-3528232_1920.jpg",
     "fallback": "images/promo.jpg"
   },
   "cta": {
