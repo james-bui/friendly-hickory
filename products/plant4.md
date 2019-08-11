@@ -22,7 +22,6 @@ category: europe
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
 # Cras molestie
