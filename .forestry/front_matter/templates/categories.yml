@@ -27,7 +27,6 @@ fields:
     required: true
 pages:
 - categories/test2.md
-- categories/herbs.md
 - categories/gifts.md
 - categories/dried-goods.md
 - categories/teas.md
