@@ -10,8 +10,8 @@ logos:
     optimized: "/images/logo-white.svg"
     fallback: "/images/logo-white.png"
   dark:
-    optimized: ''
-    fallback: ''
+    optimized: "/images/logo.svg"
+    fallback: "/images/logo.png"
 styles:
   backgroundImages:
     primary:
