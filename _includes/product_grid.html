@@ -1,0 +1,22 @@
+{% assign listCssClass = include.cssClass %}
+
+<ul class="product-grid {% assign listCssClass_is_not_empty = listCssClass | is_not_empty %}{% if listCssClass_is_not_empty %}{{ listCssClass }}{% endif %}">
+    {% assign products = include.products %}
+    {% for product in products %}
+        <li class="product-grid__item">
+            <figure data-href="{{ product.url | relative_url }}" class="product-grid__item-figure js-figure-link">
+                
+                {% include picture.html image=product.images.default.thumbnail alt=product.title cssClass='product-grid__item-image' %}
+                <figcaption>
+                    
+                    {% include small_buy_button.html product=product component='product-grid' %}
+                </figcaption>
+            </figure>
+            <div class="product-grid__definition">
+                <a href="{{ product.url | relative_url }}"><h3 class="product-grid__title">{{ product.title }}</h3></a>
+                <span class="product-grid__category"> {{ product.category }} </span>
+                <span class="product-grid__price"> ${{ product.price }} </span>
+            </div>
+        </li>
+    {% endfor %}
+</ul>

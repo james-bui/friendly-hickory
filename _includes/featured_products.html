@@ -1,0 +1,21 @@
+<ul class="product-grid product-grid--draggable">
+    {% assign products = include.products %}
+
+    {% for product in products %}
+        <li class="product-grid__item">
+            <figure data-href="{{ product.url | relative_url }}" class="js-figure-link product-grid__item-figure js-figure-link">
+                
+                {% include picture.html image=product.images.featured.thumbnail alt=product.title cssClass='product-grid__item-image product-grid__item-image--featured' %}
+                <figcaption>
+                    
+                    {% include small_buy_button.html product=product component='product-grid' %}
+                </figcaption>
+            </figure>
+            <div class="product-grid__definition">
+                <h3 class="product-grid__title"> <a href="{{ product.url | relative_url }}"> {{ product.title }} </a> </h3>
+                <span class="product-grid__category"> {{ product.category }} </span>
+                <span class="product-grid__price"> ${{ product.price }} </span>
+            </div>
+        </li>
+    {% endfor %}
+</ul>

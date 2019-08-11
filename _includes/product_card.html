@@ -1,0 +1,11 @@
+{% assign product = include.product %}
+
+<li class="product__card">
+    <figure class="product__card__image">
+        
+        {% include picture.html image=product.images.default.thumbnail alt=product.title %}
+    </figure>
+    <h2 class="product__card__title">
+        {{ product.title }}
+    </h2>
+</li>

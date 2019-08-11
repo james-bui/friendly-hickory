@@ -1,0 +1,85 @@
+.form__separator {
+    border: none;
+    border-top: solid 1px $color_light;
+}
+.snipcart {    
+    &-cart-button--highlight {
+        background-image: none;
+        background-color: $color_active;
+        
+        &:hover {
+            background-color: $color_active_medium;
+        }
+    }
+
+    &-cart__content {
+        background-color: transparent;
+    }
+    
+    &__icon {
+        path.active {
+            fill: $color_active;
+        }
+    }
+
+    &__icon--blue-light {
+        path {
+            fill: $color_active;
+        }
+    }
+
+    &-form-input:focus {
+        border-color: $color_active;
+    }
+
+    &-discount-box__form {
+        border-color: $color_active;
+    }
+
+    &-discount-box__button {
+        &:focus {
+            border-color: $color_active;
+        }
+    }
+
+    &__box--badge-highlight {
+        background-image: none;
+        background-color: $color_active;
+    }
+    
+    &__order__invoice__number--highlight {
+        color: $color_active;
+    }
+
+    &__actions--link {
+        color: $color_active_medium;
+    }
+
+    &__icon--blue-dark {
+        path {
+            fill: $color_active_medium;
+        }
+    }
+
+    &__form__radio:checked+label:before {
+        background: none;
+        background-color: $color_active;
+        border-color: $color_active_light;
+    }
+
+    &__shipping__rates__item--highlight {
+        border-color: $color_active_medium;
+    }
+
+    &__modal {
+        background-color: rgba($color_light, 1);
+
+        &__container {
+            background-color: rgba($color_light, 1);
+        }
+
+        &__header {
+            background-color: rgba($color_light, 1);
+        }
+    }
+}

@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+    {% assign title = page.title %}
+
+    {% assign section_is_not_empty = page.section | is_not_empty %}
+    {% if section_is_not_empty %}
+        {% assign title = page.section %}
+    {% endif %}
+
+    {% if page.basename == 'index.md' %}
+        <div class="header-wrapper">
+            <div class="header-wrapper__overlay">
+                
+                {% include hero.html page=page %}
+                
+                {% include header.html page=page %}
+            </div>
+        </div>
+    {% else %}
+        
+        {% include header.html page=page %}
+    {% endif %}
+
+    {{ content }}
+
+    {% include footer.html menu=site.menus.main %}

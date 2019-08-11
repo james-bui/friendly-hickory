@@ -1,0 +1,27 @@
+---
+layout: body
+---
+
+<main class="content about">
+  
+  {% include static_header.html page=page %}
+  {% for bulletpoint in page.bulletpoints %}
+    <section class="content__row about__section">
+      
+      {% include picture.html image=bulletpoint.image alt=bulletpoint.title cssClass='about__section-image' %}
+      <div class="about__section-content-container">
+        <h2 class="about__section-title">{{ bulletpoint.title }}</h2>
+        <div class="about__section-content">
+          {{ bulletpoint.description | markdownify }}
+        </div>      
+      </div>	    
+    </section>
+  {% endfor %}
+  
+  <div class="cognito">
+     <script src="https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA"></script>
+     <script>Cognito.load("forms", { id: "1" });</script>
+  </div>
+    
+  {% include promo_section.html %} 
+</main>

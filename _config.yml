@@ -1,0 +1,57 @@
+baseurl: /
+permalink: '/:title/'
+title: Snipcart
+snipcart_js: 'https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js'
+snipcart_css: 'https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.css'
+snipcart_api_key: YTlkMmJlNjQtYWIwMi00MDk0LTlkYmEtZTE0Y2IxMzM3NjM5NjM2OTc5MzgxOTUwNzM4Njc1
+logos:
+  light:
+    optimized: images/logo-white.svg
+    fallback: images/logo-white.svg
+  dark:
+    optimized: images/logo.svg
+    fallback: images/logo.svg
+styles:
+  backgroundImages:
+    primary:
+      optimized: images/header.webp
+      fallback: images/header.jpg
+    secondary:
+      optimized: images/leaf-light-grey.svg
+      fallback: images/leaf-light-grey.svg
+    product:
+      optimized: images/leaf.svg
+      fallback: images/leaf.svg
+  colors:
+    default: '#FFFFFF'
+    light: '#F0F0F0'
+    medium: '#6B797A'
+    dark: '#384647'
+    active: '#88DD9B'
+    active_light: '#C0FDB6'
+    active_medium: '#5C9174'
+    active_dark: '#547567'
+    dark_grey: '#273132'
+    light_grey: '#6B797A'
+sass:
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js
+collections:
+  posts:
+    permalink: '/posts/:title/'
