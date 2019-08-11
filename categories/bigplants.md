@@ -6,5 +6,6 @@ layout: category
 menu:
   categories:
     weight: 4
+    title: Dried Goods
 
 ---
