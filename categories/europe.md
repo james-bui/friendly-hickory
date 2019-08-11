@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: driedgoods
+title: Dried Goods
 section: Store
 layout: category
 menu:
