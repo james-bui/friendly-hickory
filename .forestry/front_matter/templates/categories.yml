@@ -25,3 +25,5 @@ fields:
   default: category
   config:
     required: true
+pages:
+- categories/herbs.md
