@@ -22,6 +22,5 @@ images:
 category: bigplants
 featured: false
 section: Store
-published: false
 
 ---
