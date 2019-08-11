@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: herbs
+title: Herbs
 section: Store
 layout: category
 menu:
