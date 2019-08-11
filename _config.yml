@@ -8,7 +8,7 @@ snipcart_api_key: YTlkMmJlNjQtYWIwMi00MDk0LTlkYmEtZTE0Y2IxMzM3NjM5NjM2OTc5MzgxOT
 logos:
   light:
     optimized: "/images/logo-white.svg"
-    fallback: ''
+    fallback: "/images/logo-white.png"
   dark:
     optimized: "/images/logo.svg"
     fallback: ''
