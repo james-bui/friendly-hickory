@@ -25,5 +25,3 @@ fields:
   default: category
   config:
     required: true
-pages:
-- categories/cactuses.md
