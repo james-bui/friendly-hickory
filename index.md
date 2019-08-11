@@ -2,8 +2,6 @@
 title: Home
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Oriental herbs and goods right to your door
