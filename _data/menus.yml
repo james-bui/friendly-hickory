@@ -1,1 +1,11 @@
-{}
+---
+main:
+- weight: 3
+  url: https://www.khanhingtong.com/about
+  title: About
+- weight: 2
+  url: https://www.khanhingtong.com/formulas
+  title: Formulas
+- weight: 1
+  url: https://www.khanhingtong.com/store
+  title: Store

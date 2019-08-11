@@ -34,8 +34,5 @@ questions:
     We’re not quite sure. But building useful products with people we love feels meaningful
     enough.'
 layout: faq
-menu:
-  main:
-    weight: 3
 
 ---
