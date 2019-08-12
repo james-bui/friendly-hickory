@@ -99,4 +99,5 @@ fields:
   config:
     required: true
 pages:
+- products/tea-1.md
 - products/plant1.md
