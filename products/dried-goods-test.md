@@ -22,6 +22,5 @@ images:
 category: dried goods
 featured: true
 section: Store
-published: false
 
 ---
