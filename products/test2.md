@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bigplants
+category: categories/teas.md
 featured: false
 section: Store
 
