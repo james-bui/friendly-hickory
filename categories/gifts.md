@@ -5,6 +5,6 @@ title: Gifts
 section: Store
 menu:
   categories:
-    weight: 1
+    weight: 3
 
 ---
