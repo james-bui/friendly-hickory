@@ -26,4 +26,5 @@ fields:
   config:
     required: true
 pages:
+- categories/herbs.md
 - categories/gifts.md
