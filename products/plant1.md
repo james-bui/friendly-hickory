@@ -19,7 +19,7 @@ images:
     original:
       optimized: "/images/plant1-featured-lg.webp"
       fallback: "/images/plant1-featured-lg.jpg"
-category: categories/gifts.md
+category: gifts
 featured: true
 section: Store
 layout: product
