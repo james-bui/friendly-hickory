@@ -71,7 +71,7 @@ fields:
   label: Category
   config:
     source:
-      type: documents
+      type: pages
       section: categories
     options:
     - summer
