@@ -26,6 +26,7 @@ fields:
   config:
     required: true
 pages:
+- categories/test.md
 - categories/test2.md
 - categories/gifts.md
 - categories/dried-goods.md
