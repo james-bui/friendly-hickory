@@ -1,7 +1,7 @@
 ---
 layout: category
-slug: testing
-title: test2
+slug: herbs
+title: Herbs
 section: Store
 
 ---
