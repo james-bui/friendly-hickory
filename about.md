@@ -15,8 +15,8 @@ bulletpoints:
     If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
     Michael, you’re good.
   image:
-    optimized: "/images/04.webp"
-    fallback: "/images/04.jpg"
+    optimized: "/images/04 crop-1.jpg"
+    fallback: "/images/04 crop.jpg"
 layout: about
 menu:
   main:
