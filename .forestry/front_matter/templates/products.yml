@@ -99,5 +99,5 @@ fields:
   config:
     required: true
 pages:
-- products/test2.md
 - products/plant1.md
+- products/test2.md
