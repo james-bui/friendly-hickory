@@ -71,7 +71,8 @@ fields:
   label: Category
   config:
     source:
-      type: custom
+      type: documents
+      section: categories
     options:
     - summer
     - europe
