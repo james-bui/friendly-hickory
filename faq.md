@@ -1,6 +1,6 @@
 ---
 title: About & FAQ
-headline: ''
+headline: Informatoin
 introduction: 'As the first Oriental herbs and goods store in Sacramento, we have
   provided quality goods to the greater Sacramento area for close to 35 years. Our
   years of expertise and extensive catalog of herbs can fill most herbal formulas
@@ -9,6 +9,8 @@ introduction: 'As the first Oriental herbs and goods store in Sacramento, we hav
   also have a wide variety of dried goods and gifts for your own consumption or as
   gifts for your friends and loved ones. '
 questions:
+- question: How do I cook my herbs?
+  answer: ''
 - question: How long does shipping take?
   answer: |-
     * US shipping will take between 3 to 7 business days.
