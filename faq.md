@@ -1,8 +1,8 @@
 ---
 title: About
-headline: A little about us and our policies
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+headline: Information on our policies and us
+introduction: 'As the first Oriental herbal and goods store in Sacramento, we provide
+  quality goods '
 questions:
 - question: How long does shipping take?
   answer: |-
