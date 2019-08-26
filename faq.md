@@ -1,8 +1,13 @@
 ---
-title: About
-headline: Information on our policies and us
-introduction: 'As the first Oriental herbal and goods store in Sacramento, we have
-  provided quality goods to the greater Sacramento area for more close to 35 years. '
+title: About & FAQ
+headline: ''
+introduction: 'As the first Oriental herbs and goods store in Sacramento, we have
+  provided quality goods to the greater Sacramento area for close to 35 years. Our
+  years of expertise and extensive catalog of herbs can fill most herbal formulas
+  provided by herbal practitioners and we have been the go-to store for many practitioners
+  in the greater Sacramento area. In addition to our vast collection of herbs, we
+  also have a wide variety of dried goods perfect for consumption or as gifts for
+  your friends and loved ones. '
 questions:
 - question: How long does shipping take?
   answer: |-
