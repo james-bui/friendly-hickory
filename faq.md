@@ -1,6 +1,6 @@
 ---
-title: About & FAQ
-headline: Informatoin
+title: About
+headline: About our policies and us
 introduction: 'As the first Oriental herbs and goods store in Sacramento, we have
   provided quality goods to the greater Sacramento area for close to 35 years. Our
   years of expertise and extensive catalog of herbs can fill most herbal formulas
