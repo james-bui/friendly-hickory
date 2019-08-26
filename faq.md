@@ -18,10 +18,13 @@ questions:
 
       <center>Sacramento, CA 95824<center>
     * All discounted items sales are final.
-- question: How do you handle sensitive customer information?
-  answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-    am I right? Make sure you’re as transparent as possible with your data handling
-    process. Or, if you’re using Snipcart, just refer to [our ToS and DPA](http://bit.ly/2YJwlyt)."
+- question: FDA and Medical Disclosures
+  answer: 'Statements on khanhingtong.com and from Khan Hing Tong have not been evaluated
+    by the Food and Drug Administration. These products are not intended to diagnose,
+    treat, cure or prevent any disease. The content provided is for informational
+    purposes only and is not intended as a replacement for advice from your physician
+    or licensed herbalist. You should not use the information on this website for
+    diagnosis or treatment of any health problem. '
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
