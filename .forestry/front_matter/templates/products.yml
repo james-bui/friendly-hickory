@@ -99,6 +99,7 @@ fields:
   config:
     required: true
 pages:
+- products/eagle-brand-medicated-oil-1-dozen.md
 - products/herbs.md
 - products/dried-goods-test.md
 - products/tea-1.md
