@@ -3,12 +3,12 @@ layout: product
 id: sunnestbirdsnest
 title: 'Sun''s Nest Birds Nest '
 description: Birds Nest
-price: "1499"
+price: "1200"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/birds nest sun nest thumbnail.png"
     original:
       optimized: ''
       fallback: "/images/birds nest sun nest 993.png"
