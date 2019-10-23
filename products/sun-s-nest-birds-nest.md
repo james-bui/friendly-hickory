@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/birds nest sun nest thumbnail.png"
+      fallback: "/images/birds nest sun nest 993.png"
     original:
       optimized: ''
       fallback: "/images/birds nest sun nest 993.png"
