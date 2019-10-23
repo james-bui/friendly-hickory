@@ -3,7 +3,7 @@ layout: product
 id: american-ginseng
 title: 'American Ginseng '
 description: ''
-price: ''
+price: "100"
 images:
   default:
     thumbnail:
