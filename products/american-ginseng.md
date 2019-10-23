@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ginseng thumbnail.jpeg"
     original:
       optimized: ''
       fallback: "/images/american ginseng.png"
