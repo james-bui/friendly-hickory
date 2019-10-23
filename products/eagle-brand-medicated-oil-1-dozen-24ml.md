@@ -22,12 +22,12 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/eagle green.jpg"
+      fallback: ''
     original:
       optimized: ''
       fallback: "/images/eagle green.jpg"
 category: gifts
-featured: true
+featured: false
 section: Store
 
 ---
