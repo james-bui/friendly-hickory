@@ -1,6 +1,6 @@
 ---
 layout: product
-id: eaglelavenderil
+id: eagle-lavender-oil
 title: Eagle Brand Lavender Medicated Oil (1 dozen, 24ml)
 description: 'This green oil is the go-to pain reliever for many families. Especially
   popular in Vietnam, family members typically gift these green bottles of medicated
