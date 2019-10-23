@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/103 tea thumbnail.JPG"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/103 tea.png"
 category: teas
 featured: true
 section: Store
