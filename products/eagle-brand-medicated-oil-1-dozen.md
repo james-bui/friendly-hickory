@@ -10,7 +10,7 @@ description: 'This green oil is the go-to pain reliever for many families. Espec
   sleep aid. The Eagle Brand oil is a staple for many families and make for a great
   gift!  <br><br>For external use only. <br>Active ingredients:   <ul>Menthol 14.5%  <ul>Methyl
   Salicytate 30% '
-price: "59.99"
+price: "60"
 images:
   default:
     thumbnail:
