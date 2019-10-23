@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: gifts
-featured: false
+featured: true
 section: Store
 
 ---
