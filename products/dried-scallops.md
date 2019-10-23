@@ -2,7 +2,7 @@
 layout: product
 id: dried-scallops
 title: Dried Scallops
-description: ''
+description: vcxbz
 price: "75"
 images:
   default:
