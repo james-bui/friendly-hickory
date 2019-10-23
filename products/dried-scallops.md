@@ -3,7 +3,7 @@ layout: product
 id: dried-scallops
 title: Dried Scallops
 description: ''
-price: ''
+price: "75"
 images:
   default:
     thumbnail:
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: dried goods
 featured: false
-section: ''
+section: Store
 
 ---
