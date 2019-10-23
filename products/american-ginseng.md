@@ -18,7 +18,7 @@ images:
       fallback: ''
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/american ginseng.png"
 category: gifts
 featured: true
 section: Store
