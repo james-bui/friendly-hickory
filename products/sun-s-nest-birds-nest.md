@@ -3,7 +3,7 @@ layout: product
 id: sunnestbirdsnest
 title: 'Sun''s Nest Birds Nest '
 description: Birds Nest
-price: "1200"
+price: '1,200'
 images:
   default:
     thumbnail:
