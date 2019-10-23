@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: "/images/reishi.png"
 category: herbs
-featured: true
+featured: false
 section: Store
 
 ---
