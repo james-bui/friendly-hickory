@@ -15,7 +15,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/reishi.png"
+      fallback: "/images/reishi thumbnail.png"
     original:
       optimized: ''
       fallback: "/images/reishi.png"
