@@ -1,17 +1,17 @@
 ---
 layout: product
-id: test dried good
-title: test dry
+id: cordyceps
+title: Cordyceps
 description: ''
-price: ''
+price: "1688"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/cordyceps thumbnail.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/cordyceps.png"
   featured:
     thumbnail:
       optimized: ''
