@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: dried goods
+category: gifts
 featured: false
 section: Store
 
