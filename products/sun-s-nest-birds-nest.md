@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/birds nest sun nest 993.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/birds nest sun nest 993.png"
 category: gifts
 featured: true
 section: Store
