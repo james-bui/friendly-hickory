@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: gifts
 featured: false
-section: ''
+section: Store
 
 ---
