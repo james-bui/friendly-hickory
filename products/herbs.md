@@ -1,17 +1,17 @@
 ---
 layout: product
-id: herbs2
-title: herbs
+id: reishi
+title: Reishi
 description: dlkjaf
-price: "93409"
+price: "25"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/reishi.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/reishi.png"
   featured:
     thumbnail:
       optimized: ''
