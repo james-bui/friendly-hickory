@@ -22,7 +22,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/eagle green.jpg"
+      fallback: "/images/eagle green thumbnail2.png"
     original:
       optimized: ''
       fallback: "/images/eagle green.jpg"
