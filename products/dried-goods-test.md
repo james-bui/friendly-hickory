@@ -8,10 +8,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/wild-ginseng-thumb.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/wild-ginseng.png"
   featured:
     thumbnail:
       optimized: ''
