@@ -1,7 +1,7 @@
 ---
 layout: product
-id: sunnestbirdsnest
-title: 'Sun''s Nest Birds Nest '
+id: sun-nest-birds-nest
+title: 'Sun Nest Bird''s Nest '
 description: Birds Nest
 price: '1,200'
 images:
