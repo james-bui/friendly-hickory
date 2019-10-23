@@ -1,7 +1,7 @@
 ---
 layout: product
-id: eagleoil
-title: Eagle Brand Medicated Oil (1 dozen, 24ml)
+id: eaglelavenderil
+title: Eagle Brand Lavender Medicated Oil (1 dozen, 24ml)
 description: 'This green oil is the go-to pain reliever for many families. Especially
   popular in Vietnam, family members typically gift these green bottles of medicated
   oil when they return home for a visit. This green oil can provide relief for minor
@@ -10,7 +10,7 @@ description: 'This green oil is the go-to pain reliever for many families. Espec
   sleep aid. The Eagle Brand oil is a staple for many families and make for a great
   gift!  <br><br>For external use only. <br>Active ingredients:   <ul>Menthol 14.5%  <ul>Methyl
   Salicytate 30% '
-price: "60"
+price: "65"
 images:
   default:
     thumbnail:
