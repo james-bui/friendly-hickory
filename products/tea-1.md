@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: teas
-featured: false
+featured: true
 section: Store
 
 ---
