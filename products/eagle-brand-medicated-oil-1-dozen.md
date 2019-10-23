@@ -15,10 +15,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/eagle green.jpg"
+      fallback: "/images/eagle green thumbnail.png"
     original:
       optimized: ''
-      fallback: "/images/eagle green.jpg"
+      fallback: "/images/eagle green.png"
   featured:
     thumbnail:
       optimized: ''
