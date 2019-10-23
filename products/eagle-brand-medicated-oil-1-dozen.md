@@ -27,7 +27,7 @@ images:
       optimized: ''
       fallback: "/images/eagle green.png"
 category: gifts
-featured: true
+featured: false
 section: Store
 
 ---
