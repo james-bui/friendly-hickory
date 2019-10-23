@@ -29,6 +29,5 @@ images:
 category: gifts
 featured: true
 section: Store
-published: false
 
 ---
