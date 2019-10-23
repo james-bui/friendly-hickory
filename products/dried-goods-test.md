@@ -1,9 +1,9 @@
 ---
 layout: product
-id: driedgoods1
-title: dried goods test
-description: dlkajf
-price: "12556"
+id: wild-ginseng
+title: Wild Ginseng
+description: ''
+price: "688"
 images:
   default:
     thumbnail:
@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: dried goods
+category: gifts
 featured: true
 section: Store
 
