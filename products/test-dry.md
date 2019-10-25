@@ -7,7 +7,8 @@ description: 'Cordyceps are a rare combination of fungus and caterpillar that''s
   These range from cough and cold to diabetes and cancer. Some locals have even used
   it to strengthen their cows for a higher yield of milk. However, due to its difficulty
   to harvest and resultant limited supply, it can be quite expensive. This makes it
-  a luxurious product for either self-consumption or as a gift. /br /br Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121254/'
+  a luxurious product for either self-consumption or as a gift. <br> <br> Source:
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121254/'
 price: "1688"
 images:
   default:
