@@ -1,7 +1,7 @@
 ---
 layout: product
 id: cordyceps
-title: Cordyceps Sinensis (30g)
+title: Cordyceps Sinensis - 冬蟲夏草 (30g)
 description: 'Cordyceps are a rare combination of fungus and caterpillar that''s been
   historically used by locals in China, Nepal, and India for a wide range of issues.
   These range from cough and cold to diabetes and cancer. Some locals have even used
