@@ -1,7 +1,7 @@
 ---
 layout: product
 id: 103tea
-title: King's 103 Oolong Ginseng Tea 4th Grade
+title: 103 Oolong Ginseng Tea - 103茶王 (300g)
 description: The 103 King's Green Ginseng Oolong Tea consists of high quality, 4th
   grade oolong, harvested from central Taiwan, that has been blended with a touch
   of ginseng to create an incredible aftertaste. The steeped tea has a light green-yellow
