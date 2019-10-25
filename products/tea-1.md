@@ -2,7 +2,11 @@
 layout: product
 id: 103tea
 title: King's 103 Oolong Ginseng Tea 4th Grade
-description: King's 103 Oolong tea
+description: TenRen's King's Green Ginseng Oolong Fourth Grade consists of high quality
+  oolong, harvested from central Taiwan, that has been blended with a touch of ginseng
+  to create an incredible aftertaste. The steeped tea has a light green-yellow hue,
+  sweet flora aroma, fresh initial flavor, and a sweet floral aftertaste which lasts
+  after the sip.
 price: "35"
 images:
   default:
