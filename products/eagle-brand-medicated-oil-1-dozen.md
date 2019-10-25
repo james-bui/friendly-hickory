@@ -1,7 +1,7 @@
 ---
 layout: product
 id: eagle-oil
-title: Eagle Brand Medicated Oil (1 dozen, 24ml)
+title: Eagle Brand Medicated Oil - 風油精 (1 dozen, 24ml)
 description: 'This green oil is the go-to pain reliever for many families. Especially
   popular in Vietnam, family members typically gift these green bottles of medicated
   oil when they return home for a visit. This green oil can provide relief for minor
