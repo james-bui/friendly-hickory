@@ -1,7 +1,7 @@
 ---
 layout: product
 id: wild-ginseng
-title: Wild Ginseng
+title: Wild Ginseng - 野生
 description: ''
 price: "688"
 images:
