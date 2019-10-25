@@ -10,7 +10,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/scallop thumb.jpg"
+      fallback: "/images/Dried-Scallops-Image-thumb.jpg"
     original:
       optimized: ''
       fallback: ''
