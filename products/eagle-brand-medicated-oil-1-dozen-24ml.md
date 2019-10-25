@@ -2,14 +2,13 @@
 layout: product
 id: eagle-lavender-oil
 title: Eagle Brand Lavender Medicated Oil (1 dozen, 24ml)
-description: 'This green oil is the go-to pain reliever for many families. Especially
-  popular in Vietnam, family members typically gift these green bottles of medicated
-  oil when they return home for a visit. This green oil can provide relief for minor
-  muscle and joint pain from arthritis, sprains, and bruises with some customers putting
-  a couple drops under their nose to help alleviate migraines, congestion, or as a
-  sleep aid. The Eagle Brand oil is a staple for many families and make for a great
-  gift!  For external use only. Active ingredients: Menthol 14.5%  and Methyl Salicytate
-  30% '
+description: 'Our favorite green medicated oil now comes with a soothing lavender
+  smell. This version of the oil is especially popular for those who may not be as
+  used to the original formula or prefers the lavender scent when using it more often
+  with a couple drops under their nose to help alleviate migraines, congestion, or
+  as a sleep aid. The Eagle Brand oil is a staple for many families and make for a
+  great gift! Limited supply. For external use only. Active ingredients: Menthol 14.5%  and
+  Methyl Salicytate 30% '
 price: "65"
 images:
   default:
