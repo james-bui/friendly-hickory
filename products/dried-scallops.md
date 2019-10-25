@@ -17,7 +17,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/scallops.jpg"
+      fallback: "/images/scallop thumb.jpg"
     original:
       optimized: ''
       fallback: ''
