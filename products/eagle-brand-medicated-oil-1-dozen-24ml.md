@@ -1,7 +1,7 @@
 ---
 layout: product
 id: eagle-lavender-oil
-title: Eagle Brand Lavender Medicated Oil (1 dozen, 24ml)
+title: Eagle Brand Lavender Medicated Oil - 薰衣草風油精 (1 dozen, 24ml)
 description: 'Our favorite green medicated oil now comes with a soothing lavender
   smell. This version of the oil is especially popular for those who may not be as
   used to the original formula or prefers the lavender scent when using it more often
