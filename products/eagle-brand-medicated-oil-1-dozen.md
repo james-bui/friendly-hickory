@@ -8,8 +8,8 @@ description: 'This green oil is the go-to pain reliever for many families. Espec
   muscle and joint pain from arthritis, sprains, and bruises with some customers putting
   a couple drops under their nose to help alleviate migraines, congestion, or as a
   sleep aid. The Eagle Brand oil is a staple for many families and make for a great
-  gift!  <br><br>For external use only. <br>Active ingredients:   <ul>Menthol 14.5%  <ul>Methyl
-  Salicytate 30% '
+  gift!  For external use only. Active ingredients: Menthol 14.5% and Methyl Salicytate
+  30% '
 price: "60"
 images:
   default:
