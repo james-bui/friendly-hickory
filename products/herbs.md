@@ -1,7 +1,7 @@
 ---
 layout: product
 id: reishi
-title: Reishi
+title: Reishi - 灵芝
 description: dlkjaf
 price: "25"
 images:

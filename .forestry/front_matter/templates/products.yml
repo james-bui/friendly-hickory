@@ -101,7 +101,6 @@ fields:
 pages:
 - products/plant1.md
 - products/dried-goods-test.md
-- products/herbs.md
 - products/913-tea.md
 - products/313-tea.md
 - products/sun-s-nest-birds-nest.md
@@ -110,4 +109,5 @@ pages:
 - products/eagle-brand-medicated-oil-1-dozen-24ml.md
 - products/test-dry.md
 - products/eagle-brand-medicated-oil-1-dozen.md
+- products/herbs.md
 - products/dried-scallops.md
