@@ -1,8 +1,8 @@
 ---
 layout: product
 id: dried-scallops
-title: Dried Scallops
-description: vcxbz
+title: Dried Scallops - 干贝 (1 lb)
+description: Dried scallops is a staple in Chinese cuisine
 price: "75"
 images:
   default:
