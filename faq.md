@@ -22,7 +22,12 @@ questions:
     brew will be more diluted than the one before. We recommend adding some honey
     to sweeten up the brew if the taste is a bit hard to bear.
 - question: How do I cook my herbs?
-  answer: ''
+  answer: Depending on the amount of herbs, most formulas can be brewed with 5-7 cups
+    of water. Some formulas require a soak for about thirty minutes before but once
+    the mixture reaches a boil, put it on simmer for about an hour and a half so that
+    the liquid reduces to about 1.5-2 cups of brew. Consume one cup in the morning
+    and one cup at night. Some formulas may need to be taken after a meal but please
+    consult with your herbal practitioner for directions specific to your formula.
 - question: How long does shipping take?
   answer: |-
     * US shipping will take between 3 to 7 business days.
