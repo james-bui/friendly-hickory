@@ -11,7 +11,12 @@ introduction: 'As the first Oriental herbs and goods store in Sacramento, we hav
 questions:
 - question: I don't see the herb that I want. Is there any way you can get it for
     me?
-  answer: ''
+  answer: 'Yes! We have a wide variety of herbs in stock (almost 500 kinds) and are
+    working on getting most of it online. However, in the meantime we''ve provided
+    some of our most popular ones in our current online store. If you don''t see the
+    herb that you''re looking for, don''t hesitate to contact us with the form below.
+    Its common name, scientific name, Chinese name, or even picture will all help
+    in determining what the herb is and whether we have it. '
 - question: How many times can I cook my package of herbs?
   answer: Each package of herbs can be brewed up to 3 times. However, each subsequent
     brew will be more diluted than the one before. We recommend adding some honey
