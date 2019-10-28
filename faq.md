@@ -13,7 +13,9 @@ questions:
     me?
   answer: ''
 - question: How many times can I cook my package of herbs?
-  answer: ''
+  answer: Each package of herbs can be brewed up to 3 times. However, each subsequent
+    brew will be more diluted than the one before. We recommend adding some honey
+    to sweeten up the brew if the taste is a bit hard to bear.
 - question: How do I cook my herbs?
   answer: ''
 - question: How long does shipping take?
