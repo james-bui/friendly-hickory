@@ -1,6 +1,6 @@
 ---
 title: About
-headline: Our policies and a little about us
+headline: A little about us and some common questions
 introduction: 'As the first Oriental herbs and goods store in Sacramento, we have
   provided quality goods to the greater Sacramento area for close to 35 years. Our
   years of expertise and extensive catalog of herbs can fill most herbal formulas
@@ -9,6 +9,9 @@ introduction: 'As the first Oriental herbs and goods store in Sacramento, we hav
   also have a wide variety of dried goods and gifts for your own consumption or as
   gifts for your friends and loved ones. '
 questions:
+- question: I don't see the herb that I want. Is there any way you can get it for
+    me?
+  answer: ''
 - question: How many times can I cook my package of herbs?
   answer: ''
 - question: How do I cook my herbs?
