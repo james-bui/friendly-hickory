@@ -13,10 +13,10 @@ bulletpoints:
 
     <br>
 
-    * <ul>By email: **_khtherbs@gmail.com_**
-    * <ul>By text: **_916-862-0719_**
-    * <ul>By fax: **_916-391-2311_** (please provide phone or email on fax)
-    * <ul>Attached in the **_form_** **_below_**
+    * By email: **_khtherbs@gmail.com_**
+    * By text: **_916-862-0719_**
+    * By fax: **_916-391-2311_** (please provide phone or email on fax)
+    * Attached in the **_form_** **_below_**
 
     <br>
 
