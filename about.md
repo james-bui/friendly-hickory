@@ -4,9 +4,8 @@ headline: Herbal Formulas packed and shipped to you
 introduction: 'Traditional Chinese Medicine (TCM) has a more than 3,500 year legacy
   with herbal formulas being one of its foundational practices. As Sacramento''s first
   Oriental herb store, we have provided and filled many herbal formulas for over 32
-  years. Our selection is unmatched in the Greater Sacramento area and we have customers
-  who still get their formulas filled from us throughout California after all these
-  years. '
+  years. Our selection and expertise is unmatched in the Greater Sacramento area and
+  we have customers who have their formulas filled and mailed from us throughout California. '
 bulletpoints:
 - title: How it works
   description: |-
