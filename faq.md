@@ -9,6 +9,8 @@ introduction: 'As the first Oriental herbs and goods store in Sacramento, we hav
   also have a wide variety of dried goods and gifts for your own consumption or as
   gifts for your friends and loved ones. '
 questions:
+- question: How many times can I cook my package of herbs?
+  answer: ''
 - question: How do I cook my herbs?
   answer: ''
 - question: How long does shipping take?
