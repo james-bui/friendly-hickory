@@ -2,15 +2,22 @@
 title: Formulas
 headline: Herbal Formulas packed and shipped to you
 introduction: 'Traditional Chinese Medicine (TCM) has a more than 3,500 year legacy
-  with herbal formulas being one of its foundational practices. '
+  with herbal formulas being one of its foundational practices. As Sacramento''s first
+  Oriental herb store, we have provided and filled many herbal formulas for over 32
+  years. Our selection is unmatched in the Greater Sacramento area and we have customers
+  who still get their formulas filled from us throughout California after all these
+  years. '
 bulletpoints:
-- title: We love plants
-  description: Now THAT is true, but we love web development even more. We talk about
-    it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live demos
-    and open source these bad boys [on GitHub](https://github.com/snipcart). Matter
-    of fact, this Planty theme [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-    If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-    Michael, you’re good.
+- title: How it works
+  description: |-
+    Given the complexity and many combinations of herbs for each formula, we are unable to provide a set price for each package of herbs. Please provide a copy of your formula through your medium of choice:
+
+    * By email: **_khtherbs@gmail.com_**
+    * By text: **_916-862-0719_**
+    * By fax: **_916-391-2311_** (please provide phone or email on fax)
+    * Attached in the **_form_** **_below_**
+
+    Once we confirm our ability to fill the formula, we will contact you about the price and other details about the order. With your confirmation, we will fill out the formula in individual packages to be brewed. Should you have any questions, feel free to contact us.
   image:
     optimized: "/images/04 crop-1.jpg"
     fallback: "/images/04 crop.jpg"
