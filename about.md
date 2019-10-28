@@ -11,10 +11,14 @@ bulletpoints:
   description: |-
     Given the complexity and many combinations of herbs for each formula, we are unable to provide a set price for each package of herbs. Please provide a copy of your formula through your medium of choice:
 
+    <br>
+
     * By email: **_khtherbs@gmail.com_**
     * By text: **_916-862-0719_**
     * By fax: **_916-391-2311_** (please provide phone or email on fax)
     * Attached in the **_form_** **_below_**
+
+    <br>
 
     Once we confirm our ability to fill the formula, we will contact you about the price and other details about the order. With your confirmation, we will fill out the formula in individual packages to be brewed. Should you have any questions, feel free to contact us.
   image:
