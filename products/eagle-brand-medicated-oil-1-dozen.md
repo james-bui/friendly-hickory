@@ -15,7 +15,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/eagle green thumbnail1.png"
+      fallback: "/images/eagle green thumbnail2.png"
     original:
       optimized: ''
       fallback: "/images/eagle green.png"
