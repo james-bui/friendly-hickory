@@ -12,14 +12,14 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/103 tea thumbnail.JPG"
+      fallback: "/images/tea thumbnail.JPG"
     original:
       optimized: ''
       fallback: "/images/103 tea.png"
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/103 tea thumbnail.JPG"
+      fallback: "/images/tea thumbnail.JPG"
     original:
       optimized: ''
       fallback: "/images/103 tea.png"
