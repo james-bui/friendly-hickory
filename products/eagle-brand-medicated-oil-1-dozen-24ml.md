@@ -14,7 +14,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/eagle lavender.png"
+      fallback: "/images/eagle lavender thumbnail.png"
     original:
       optimized: ''
       fallback: "/images/eagle lavender.png"
