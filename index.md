@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Oriental herbs and goods right to your door
+# Oriental herbs and gifts right to your door
