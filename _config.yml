@@ -10,7 +10,7 @@ logos:
     optimized: "/images/kht logo white word.webp"
     fallback: "/images/kht logo white word.png"
   dark:
-    optimized: ''
+    optimized: "/images/kht logo word.webp"
     fallback: "/images/kht logo word.png"
 styles:
   backgroundImages:
