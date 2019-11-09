@@ -99,6 +99,7 @@ fields:
   config:
     required: true
 pages:
+- products/dang-gui.md
 - products/dried-scallops.md
 - products/american-ginseng.md
 - products/tea-1.md
