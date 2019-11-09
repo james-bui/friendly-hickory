@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dongquai thumb.jpg"
     original:
       optimized: ''
       fallback: ''
