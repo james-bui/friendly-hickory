@@ -20,7 +20,7 @@ images:
       fallback: "/images/Dried-Scallops-Image-thumb.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dried scallops.jpg"
 category: gifts
 featured: true
 section: Store
