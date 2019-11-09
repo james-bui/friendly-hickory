@@ -5,7 +5,7 @@ title: Dried Scallops - 干贝 (1 lb)
 description: 'Dried scallops is a staple in Chinese cuisine, used for its sweet and
   umami flavor. Its strong and distinct flavor is used for stir fries, porridge, stews,
   and sauces (i.e. XO sauce). '
-price: "75"
+price: "41"
 images:
   default:
     thumbnail:
@@ -13,7 +13,7 @@ images:
       fallback: "/images/Dried-Scallops-Image-thumb.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dried scallops.jpg"
   featured:
     thumbnail:
       optimized: ''

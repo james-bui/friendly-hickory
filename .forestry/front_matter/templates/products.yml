@@ -99,6 +99,7 @@ fields:
   config:
     required: true
 pages:
+- products/dried-scallops.md
 - products/american-ginseng.md
 - products/tea-1.md
 - products/eagle-brand-medicated-oil-1-dozen-24ml.md
@@ -106,7 +107,6 @@ pages:
 - products/sun-s-nest-birds-nest.md
 - products/test-dry.md
 - products/herbs.md
-- products/dried-scallops.md
 - products/plant1.md
 - products/dried-goods-test.md
 - products/313-tea.md
