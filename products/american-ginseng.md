@@ -14,7 +14,7 @@ images:
       fallback: "/images/ginseng thumbnail.jpeg"
     original:
       optimized: ''
-      fallback: "/images/american ginseng.png"
+      fallback: "/images/IMG-7323.JPG"
   featured:
     thumbnail:
       optimized: ''
