@@ -3,7 +3,7 @@ layout: product
 id: chrysanthemum
 title: Chrysanthemum Tea
 description: ''
-price: ''
+price: "16"
 images:
   default:
     thumbnail:
@@ -22,6 +22,5 @@ images:
 category: ''
 featured: false
 section: ''
-published: false
 
 ---
