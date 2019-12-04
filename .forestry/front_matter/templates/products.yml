@@ -99,6 +99,7 @@ fields:
   config:
     required: true
 pages:
+- products/chrysanthemum-tea.md
 - products/goji-berry.md
 - products/lotus-seed.md
 - products/dried-jujube.md
