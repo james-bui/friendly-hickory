@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/red dates thumb.jpg"
     original:
       optimized: ''
       fallback: ''
