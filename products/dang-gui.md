@@ -1,7 +1,7 @@
 ---
 layout: product
 id: danggui
-title: Dang Gui
+title: Dang Gui Angelica Sinensis
 description: ''
 price: ''
 images:
