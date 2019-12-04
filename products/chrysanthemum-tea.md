@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/chrysanthemum thumb1.jpg"
     original:
       optimized: ''
       fallback: ''
