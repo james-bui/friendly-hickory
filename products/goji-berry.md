@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/goji thumb.jpg"
     original:
       optimized: ''
       fallback: ''
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: herbs
 featured: false
-section: ''
+section: Store
 
 ---

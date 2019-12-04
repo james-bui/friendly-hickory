@@ -99,12 +99,12 @@ fields:
   config:
     required: true
 pages:
+- products/goji-berry.md
 - products/huang-qi.md
 - products/dried-jujube.md
 - products/chrysanthemum-tea.md
 - products/dang-gui.md
 - products/hsu-s-ginseng-tea.md
-- products/goji-berry.md
 - products/lotus-seed.md
 - products/dried-scallops.md
 - products/american-ginseng.md
