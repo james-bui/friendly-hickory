@@ -7,7 +7,7 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/dongquai thumb.jpg"
       fallback: "/images/dongquai thumb.jpg"
     original:
       optimized: ''
