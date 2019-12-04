@@ -99,8 +99,8 @@ fields:
   config:
     required: true
 pages:
-- products/dried-scallops.md
 - products/goji-berry.md
+- products/dried-scallops.md
 - products/lotus-seed.md
 - products/huang-qi.md
 - products/dried-jujube.md
