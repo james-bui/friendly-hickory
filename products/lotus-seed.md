@@ -3,7 +3,7 @@ layout: product
 id: lianzhi
 title: Lotus Seed
 description: ''
-price: ''
+price: "10"
 images:
   default:
     thumbnail:
@@ -22,6 +22,5 @@ images:
 category: herbs
 featured: false
 section: Store
-published: false
 
 ---
