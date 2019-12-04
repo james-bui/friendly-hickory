@@ -1,9 +1,9 @@
 ---
 layout: product
 id: hongzao
-title: Dried Jujube
+title: Ziziphus Jujube - 红枣 (1 lb)
 description: ''
-price: ''
+price: "8"
 images:
   default:
     thumbnail:
@@ -19,9 +19,9 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: herbs
 featured: false
-section: ''
+section: Store
 published: false
 
 ---
