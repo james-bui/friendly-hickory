@@ -3,7 +3,7 @@ layout: product
 id: danggui
 title: Angelica Sinensis - 当归 (1lb)
 description: ''
-price: ''
+price: "20"
 images:
   default:
     thumbnail:
