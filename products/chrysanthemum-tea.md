@@ -1,7 +1,7 @@
 ---
 layout: product
 id: chrysanthemum
-title: Chrysanthemum Tea
+title: Chrysanthemum - 菊花  (1 lb)
 description: ''
 price: "16"
 images:
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: teas
 featured: false
-section: ''
+section: Store
 
 ---
