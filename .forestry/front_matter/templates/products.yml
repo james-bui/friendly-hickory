@@ -99,9 +99,9 @@ fields:
   config:
     required: true
 pages:
+- products/goji-berry.md
 - products/lotus-seed.md
 - products/huang-qi.md
-- products/goji-berry.md
 - products/dried-jujube.md
 - products/chrysanthemum-tea.md
 - products/dang-gui.md

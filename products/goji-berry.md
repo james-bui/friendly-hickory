@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/goji thumb.jpg"
+      fallback: "/images/goji thumb (2).jpg"
     original:
       optimized: ''
       fallback: ''
