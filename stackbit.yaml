@@ -458,7 +458,6 @@ models:
     type: data
     file: menus.yml
     label: Site Menus
-    labelField: title
     description: >-
       Site menus model, defines list of menus that can be specified from within
       site configuration
